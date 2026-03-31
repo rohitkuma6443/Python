@@ -14,6 +14,8 @@ The course is designed for beginners who want to learn Python programming and ap
   Create visualizations for data insights
   Prepare data for analytics and reporting
 
+  <img src ="https://th.bing.com/th?id=ORMS.0c0d6f45b833d44de2a0c86532af1888&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0">
+
 **🛠 Tools & Technologies**
 
   Python 3
